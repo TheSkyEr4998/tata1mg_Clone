@@ -1,0 +1,11 @@
+@import url(./Components/Scroll/ScrollToTop.css);
+@import url(./Components/Scroll/ScrollToBottom.css);
+
+.App {
+  text-align: center;
+}
+
+
+.hideScroll::-webkit-scrollbar {
+  display: none;
+}
